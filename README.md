@@ -27,4 +27,4 @@ npm start
 npm run build
 ```  
 ## Credit
-https://github.com/softchris/angular4-webpack
+https://github.com/snvishnoi/Angular4-basics
